@@ -49,6 +49,28 @@ ProfilePic Flipper LinkedIn is a Chrome extension designed to modify the profile
 
 Contributions to ProfilePic Flipper LinkedIn are welcome! If you have any ideas, suggestions, or bug fixes, feel free to open an issue or submit a pull request. Let's work together to enhance the functionality and user experience of the extension.
 
+## Resources
+
+### Chrome Extensions Documentation
+
+- [Overview](https://developer.chrome.com/docs/extensions/mv3/intro/)
+  
+### JavaScript and DOM Manipulation
+
+- [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [DOM Manipulation](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+
+### LinkedIn Developer Resources
+
+- Use the browser’s Developer Tools (right-click on the webpage and select "Inspect") to explore the LinkedIn DOM and find the selectors for profile pictures.
+
+### YouTube Channels
+
+- [Channel ](https://www.youtube.com/user/channel2)
+
+### ChatGPT
+
+For additional help and troubleshooting, you can use ChatGPT by OpenAI.
 
 ## Disclaimer
 
