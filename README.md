@@ -39,7 +39,8 @@ ProfilePic Flipper LinkedIn is a Chrome extension designed to modify the profile
 ![Screenshot (902)](https://github.com/sreshtech/ProfilePic_Flipper_LinkedIn/assets/121309862/583b81a0-22c0-41d8-b729-33cbd930ff4a)
 
 
-![Screenshot (903)](https://github.com/sreshtech/ProfilePic_Flipper_LinkedIn/assets/121309862/67dafbde-1703-4ae4-aed5-5bdd3a18f260)
+![Screenshot (904)](https://github.com/sreshtech/ProfilePic_Flipper_LinkedIn/assets/121309862/06f42122-be87-4bce-a661-464057f255db)
+
 
 
 ![Screenshot (905)](https://github.com/sreshtech/ProfilePic_Flipper_LinkedIn/assets/121309862/b0bee448-0c36-44e5-94c2-84147ea2d256)
